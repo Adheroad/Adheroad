@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Adheroad/Adheroad/main/banner.png" alt="Banner" width="100%" height="60%" />
+
 # 👋 Welcome! I am Anshul.
 
 🚀 I build things. I break things. All of it—to learn.  
