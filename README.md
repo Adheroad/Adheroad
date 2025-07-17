@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Adheroad/Adheroad/main/banner.png" alt="Banner" width="100%" height="60%" />
+<img src="https://raw.githubusercontent.com/Adheroad/Adheroad/main/banner.png" alt="Banner" width="40%" height="50%" />
 
 # 👋 Welcome! I am Anshul.
 
